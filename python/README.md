@@ -50,6 +50,10 @@ recommend adjusting the code to your purposes.
 - [`record.py`](./record.py) shows how to create record and export data to CSV or EDF format.
 - For more details https://emotiv.gitbook.io/cortex-api/records
 
+## Query, download and export records
+- [`query_records.py`](./query_records.py) shows how to query record, download records and  export record data to CSV or EDF format.
+- For more details https://emotiv.gitbook.io/cortex-api/records
+
 ## Inject marker while recording
 - [`marker.py`](./marker.py) shows how to inject marker during a recording.
 - For more details https://emotiv.gitbook.io/cortex-api/markers
